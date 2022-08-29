@@ -38,31 +38,12 @@ Subscribe My Youtube Channels
 <html>
 <body>
 <p>Subscrib My Friend Channel</p>
+<body>
+<a href="https://ibb.co/bHv0TFG">
+<img src="https://i.ibb.co/Xy5Q1DG/IMG-20211227-WA0006.jpg" width="120" height="120" alt="IMG-20211227-WA0006" border="0"></a>
+
 <button>
-<a href="https://youtube.com/channel/UCb4EZjNFz7a705eRDxVgjAg" >Subscribe</a>
+<br><a href="https://youtube.com/channel/UCb4EZjNFz7a705eRDxVgjAg" >Subscribe</a></br>
 </button>
-</body>
-</html>
-<html>
-<body>
-<h1>Facebook</h1>
-<button><a href="https://www.facebook.com" >Login</a>
-</button>
-</body>
-</html>
-<endcode>
-<html>
-<body>
-<h4>Sign up</h4>
-<input placeholder="Email">
-<input type"password" placeholder="Password">
-<p>Range:</p>
-<input type="range">
-<p>Checkbox:</p>
-<input type="checkbox">
-<p>Color:</p>
-<input type="color">
-<p>DOB</p>
-<input type="date">
 </body>
 </html>
