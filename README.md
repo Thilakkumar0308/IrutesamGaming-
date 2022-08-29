@@ -1,12 +1,11 @@
 <html>
 <body>
-<h1>Irutesam Gaming</h1>
-<h6>Irutesam Gaming</h6>
+<h1>YouTube Channels</h1>
 </body>
 </html>
 <html>
 <body>
-<h1>Support Our Channel</h1>
+<h1>Support Our Channels</h1>
 <p>
 Irutesam Gaming<br>
 Tj Queen Yt<br>
@@ -15,13 +14,13 @@ Tj Queen Yt<br>
 </html>
 <html>
 <head>
-Subscribe My Youtube Channels
+Subscribe My YouTube Channels
 </head>
 <!doctype html>
 <html>
 <body>
 <h1>Youtube</h1>
-<p>Subscribe My Channel</p>
+<p>Subscribe Irutesam Gaming Channel</p>
 <html>
 <body>
 <a href="https://ibb.co/djfPMNh">
@@ -37,7 +36,7 @@ Subscribe My Youtube Channels
 </html>
 <html>
 <body>
-<p>Subscrib My Friend Channel</p>
+<p>Subscrib Tj Queen Yt Channel</p>
 <body>
 <a href="https://ibb.co/bHv0TFG">
 <img src="https://i.ibb.co/Xy5Q1DG/IMG-20211227-WA0006.jpg" width="120" height="120" alt="IMG-20211227-WA0006" border="0"></a>
